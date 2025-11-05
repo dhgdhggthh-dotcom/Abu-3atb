@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Business Card Generator",
+  "description": "An application that generates a professional business card. Users can enter their name, upload a picture, and provide their experience, and the app uses AI to generate a professional summary.",
+  "requestFramePermissions": []
+}
